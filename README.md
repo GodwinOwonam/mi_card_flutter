@@ -1,6 +1,6 @@
 # mi_card_flutter
 
-A new Flutter project.
+A simple business card application based on the Udemy Course by #FlutterBrew.
 
 ## Getting Started
 
